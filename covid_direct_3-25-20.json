@@ -1,0 +1,319 @@
+[
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/10/2020",
+    "name": "2/10",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/11/2020",
+    "name": "2/11",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/12/2020",
+    "name": "2/12",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/13/2020",
+    "name": "2/13",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/14/2020",
+    "name": "2/14",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/15/2020",
+    "name": "2/15",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/16/2020",
+    "name": "2/16",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/17/2020",
+    "name": "2/17",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/18/2020",
+    "name": "2/18",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/19/2020",
+    "name": "2/19",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/20/2020",
+    "name": "2/20",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/21/2020",
+    "name": "2/21",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/22/2020",
+    "name": "2/22",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/23/2020",
+    "name": "2/23",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/24/2020",
+    "name": "2/24",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/25/2020",
+    "name": "2/25",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/26/2020",
+    "name": "2/26",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/27/2020",
+    "name": "2/27",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/28/2020",
+    "name": "2/28",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "02/29/2020",
+    "name": "2/29",
+    "newcase": 0
+  },
+  {
+    "confirmed": 0,
+    "death": 0,
+    "fulldate": "03/01/2020",
+    "name": "3/1",
+    "newcase": 0
+  },
+  {
+    "confirmed": 1,
+    "death": 0,
+    "fulldate": "03/02/2020",
+    "name": "3/2",
+    "newcase": 1
+  },
+  {
+    "confirmed": 1,
+    "death": 0,
+    "fulldate": "03/03/2020",
+    "name": "3/3",
+    "newcase": 0
+  },
+  {
+    "confirmed": 1,
+    "death": 0,
+    "fulldate": "03/04/2020",
+    "name": "3/4",
+    "newcase": 0
+  },
+  {
+    "confirmed": 4,
+    "death": 0,
+    "fulldate": "03/05/2020",
+    "name": "3/5",
+    "newcase": 3
+  },
+  {
+    "confirmed": 16,
+    "death": 0,
+    "fulldate": "03/06/2020",
+    "name": "3/6",
+    "newcase": 12
+  },
+  {
+    "confirmed": 11,
+    "death": 0,
+    "fulldate": "03/07/2020",
+    "name": "3/7",
+    "newcase": -5
+  },
+  {
+    "confirmed": 12,
+    "death": 0,
+    "fulldate": "03/08/2020",
+    "name": "3/8",
+    "newcase": 1
+  },
+  {
+    "confirmed": 25,
+    "death": 0,
+    "fulldate": "03/09/2020",
+    "name": "3/9",
+    "newcase": 13
+  },
+  {
+    "confirmed": 36,
+    "death": 0,
+    "fulldate": "03/10/2020",
+    "name": "3/10",
+    "newcase": 11
+  },
+  {
+    "confirmed": 62,
+    "death": 0,
+    "fulldate": "03/11/2020",
+    "name": "3/11",
+    "newcase": 26
+  },
+  {
+    "confirmed": 95,
+    "death": 0,
+    "fulldate": "03/12/2020",
+    "name": "3/12",
+    "newcase": 33
+  },
+  {
+    "confirmed": 154,
+    "death": 0,
+    "fulldate": "03/13/2020",
+    "name": "3/13",
+    "newcase": 59
+  },
+  {
+    "confirmed": 269,
+    "death": 1,
+    "fulldate": "03/14/2020",
+    "name": "3/14",
+    "newcase": 115
+  },
+  {
+    "confirmed": 329,
+    "death": 5,
+    "fulldate": "03/15/2020",
+    "name": "3/15",
+    "newcase": 60
+  },
+  {
+    "confirmed": 463,
+    "death": 7,
+    "fulldate": "03/16/2020",
+    "name": "3/16",
+    "newcase": 134
+  },
+  {
+    "confirmed": 923,
+    "death": 10,
+    "fulldate": "03/17/2020",
+    "name": "3/17",
+    "newcase": 460
+  },
+  {
+    "confirmed": 1339,
+    "death": 10,
+    "fulldate": "03/18/2020",
+    "name": "3/18",
+    "newcase": 416
+  },
+  {
+    "confirmed": 3954,
+    "death": 26,
+    "fulldate": "03/19/2020",
+    "name": "3/19",
+    "newcase": 2615
+  },
+  {
+    "confirmed": 4408,
+    "death": 26,
+    "fulldate": "03/20/2020",
+    "name": "3/20",
+    "newcase": 454
+  },
+  {
+    "confirmed": 8115,
+    "death": 60,
+    "fulldate": "03/21/2020",
+    "name": "3/21",
+    "newcase": 3707
+  },
+  {
+    "confirmed": 9045,
+    "death": 60,
+    "fulldate": "03/22/2020",
+    "name": "3/22",
+    "newcase": 930
+  },
+  {
+    "confirmed": 12305,
+    "death": 125,
+    "fulldate": "03/23/2020",
+    "name": "3/23",
+    "newcase": 3260
+  },
+  {
+    "confirmed": 15597,
+    "death": 192,
+    "fulldate": "03/24/2020",
+    "name": "3/24",
+    "newcase": 3292,
+    "pending_confirmed": 15597,
+    "pending_newcase": 3292,
+    "pending_death": 192
+  },
+  {
+    "name": "3/25",
+    "pending_confirmed": 17856,
+    "pending_newcase": 2259,
+    "pending_death": 192
+  }
+]
